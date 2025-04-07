@@ -1,21 +1,23 @@
-﻿namespace Enum_Exception
+﻿using Enum_Exception.Enums;
+
+namespace Enum_Exception
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Group group1 = new Group("BB109", Enums.GroupType.Online);
-            Group group2 = new Group("BB209", Enums.GroupType.Offline);
-            Group group3 = new Group("BB309", Enums.GroupType.Mixed);
+            Group group1 = new Group("BB109", GroupType.Offline);
+            Group group2 = new Group("BB209", GroupType.Offline);
+            Group group3 = new Group("BB309", GroupType.Mixed);
 
             Group.AddGroup(group1);
             Group.AddGroup(group2);
             Group.AddGroup(group3);
 
-            Student student1 = new Student("Sunay", "Kazimbeyli", Enums.Gender.female);
-            Student student2 = new Student("Ibrahim", "Memmedeliyev", Enums.Gender.male);
-            Student student3 = new Student("Sekhavet", "Agali", Enums.Gender.male);
-            Student student4 = new Student("Rena", "Memmedova", Enums.Gender.female);
+            Student student1 = new Student("Sunay", "Kazimbeyli", Gender.female);
+            Student student2 = new Student("Ibrahim", "Memmedeliyev", Gender.male);
+            Student student3 = new Student("Sekhavet", "Agali", Gender.male);
+            Student student4 = new Student("Rena", "Memmedova", Gender.female);
 
             group1.AddStudent(student1);
             group2.AddStudent(student2);

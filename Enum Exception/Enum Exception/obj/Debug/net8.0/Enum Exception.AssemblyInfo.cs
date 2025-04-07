@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enum Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3699f806be35de83be2640546de089f55460827a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enum Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enum Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

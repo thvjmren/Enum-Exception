@@ -1,6 +1,6 @@
 ﻿namespace Enum_Exception.Enums
 {
-    enum Gender
+    internal enum Gender
     {
         male,
         female

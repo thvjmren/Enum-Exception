@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\",
+  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\enum exception\\enum exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\task0604\\enum exception\\enum exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\enum exception\\enum exception\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\task0604\\enum exception\\enum exception\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\enum exception\\enum exception\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\enum exception\\enum exception\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\task0604\\enum exception\\enum exception\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\enum exception\\enum exception\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\task0604\\enum exception\\enum exception\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|c:\\users\\rana\\desktop\\ca\\task0604\\enum exception\\enum exception\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE25A457-50BE-49C7-888B-3D4C693473EE}|Enum Exception\\Enum Exception.csproj|solutionrelative:enum exception\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,35 +36,35 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Enums\\Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Enums\\Gender.cs",
               "RelativeDocumentMoniker": "Enum Exception\\Enums\\Gender.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Enums\\Gender.cs",
-              "RelativeToolTip": "Enum Exception\\Enums\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Enums\\Gender.cs*",
+              "RelativeToolTip": "Enum Exception\\Enums\\Gender.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T22:03:53.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GroupType.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Enums\\GroupType.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Enums\\GroupType.cs",
               "RelativeDocumentMoniker": "Enum Exception\\Enums\\GroupType.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Enums\\GroupType.cs",
-              "RelativeToolTip": "Enum Exception\\Enums\\GroupType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Enums\\GroupType.cs*",
+              "RelativeToolTip": "Enum Exception\\Enums\\GroupType.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T20:49:52.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Student.cs",
               "RelativeDocumentMoniker": "Enum Exception\\Student.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Student.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Student.cs",
               "RelativeToolTip": "Enum Exception\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Group.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Group.cs",
               "RelativeDocumentMoniker": "Enum Exception\\Group.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Group.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Group.cs",
               "RelativeToolTip": "Enum Exception\\Group.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwGAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T20:22:47.062Z",
               "EditorCaption": ""
@@ -88,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Program.cs",
               "RelativeDocumentMoniker": "Enum Exception\\Program.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\Enum Exception\\Enum Exception\\Program.cs*",
-              "RelativeToolTip": "Enum Exception\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\task0604\\Enum Exception\\Enum Exception\\Program.cs",
+              "RelativeToolTip": "Enum Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T20:21:21.386Z",
               "EditorCaption": ""

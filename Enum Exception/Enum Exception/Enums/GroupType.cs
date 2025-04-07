@@ -1,6 +1,6 @@
 ﻿namespace Enum_Exception.Enums
 {
-    enum GroupType
+    internal enum GroupType
     {
         Online,
         Offline,
